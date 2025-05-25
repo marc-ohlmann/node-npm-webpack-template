@@ -1,6 +1,2 @@
-console.log('hello world!')
+const rootElement = document.querySelector('#root');
 
-
-let x = 2;
-
-console.log(x);
