@@ -28,5 +28,8 @@
     "dev": "webpack serve --open --config webpack.dev.js",
     "lint": "eslint --fix src/",
     "test": "jest"
+  },
+  "dependencies": {
+    "globals": "^16.2.0"
   }
 }
